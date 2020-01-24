@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\пользователь\desktop\учеба\выч мат\выч мат 3 семестр\метод лагранжа\projectlagranj\source.cpp(9): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\пользователь\desktop\учеба\выч мат\выч мат 3 семестр\метод лагранжа\projectlagranj\source.cpp(10): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\пользователь\desktop\учеба\выч мат\выч мат 3 семестр\метод лагранжа\projectlagranj\source.cpp(14): warning C4305: =: усечение из "double" в "float"
+  ProjectLagranj.vcxproj -> C:\Users\Пользователь\Desktop\учеба\выч мат\выч мат 3 семестр\метод Лагранжа\x64\Debug\ProjectLagranj.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\лагранж\projectlagranj\projectlagranj\source.cpp(9): warning C4305: инициализация: усечение из "double" в "float"
+c:\лагранж\projectlagranj\projectlagranj\source.cpp(10): warning C4305: инициализация: усечение из "double" в "float"
+c:\лагранж\projectlagranj\projectlagranj\source.cpp(14): warning C4305: =: усечение из "double" в "float"
+  ProjectLagranj.vcxproj -> C:\Лагранж\ProjectLagranj\Debug\ProjectLagranj.exe
