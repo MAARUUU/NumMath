@@ -1,0 +1,14 @@
+﻿  Optimization.cpp
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(4): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(86): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(87): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(88): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(111): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(82): warning C4101: x1: неиспользованная локальная переменная
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(83): warning C4101: x2: неиспользованная локальная переменная
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(132): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(133): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(135): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(140): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\desktop\optimization\optimization\optimization.cpp(152): warning C4305: аргумент: усечение из "double" в "float"
+  Optimization.vcxproj -> C:\Users\Пользователь\Desktop\Optimization\Debug\Optimization.exe
